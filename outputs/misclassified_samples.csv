@@ -1,0 +1,9 @@
+﻿image_path,true_label,pred_label,true_label_zh,pred_label_zh
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0005.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0011.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0012.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0021.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0025.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0030.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\gray_leaf_spot\plantvillage_gray_leaf_spot_test_0042.jpg,gray_leaf_spot,northern_leaf_blight,灰斑病,北方叶枯病
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_leaf_dataset\test\northern_leaf_blight\plantvillage_northern_leaf_blight_test_0021.jpg,northern_leaf_blight,gray_leaf_spot,北方叶枯病,灰斑病

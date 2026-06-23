@@ -1,0 +1,13 @@
+﻿image_path,pred_label,pred_label_zh,confidence
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_common_rust_07.jpg,common_rust,普通锈病,0.9853416681289673
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_common_rust_08.jpg,common_rust,普通锈病,0.9975008368492126
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_common_rust_09.jpg,common_rust,普通锈病,0.999963641166687
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_gray_leaf_spot_04.jpg,gray_leaf_spot,灰斑病,0.9936409592628479
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_gray_leaf_spot_05.jpg,gray_leaf_spot,灰斑病,0.7745551466941833
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_gray_leaf_spot_06.jpg,gray_leaf_spot,灰斑病,0.8496049046516418
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_healthy_01.jpg,healthy,健康叶片,0.9996751546859741
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_healthy_02.jpg,healthy,健康叶片,0.9999196529388428
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_healthy_03.jpg,healthy,健康叶片,0.9999252557754517
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_northern_leaf_blight_10.jpg,northern_leaf_blight,北方叶枯病,0.9147739410400391
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_northern_leaf_blight_11.jpg,northern_leaf_blight,北方叶枯病,0.9043972492218018
+D:\南华学业\学校用\大三下\深度学习\课程设计\corn_predict_images\plantvillage_northern_leaf_blight_12.jpg,northern_leaf_blight,北方叶枯病,0.9733912348747253

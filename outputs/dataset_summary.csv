@@ -1,0 +1,13 @@
+﻿split,class,class_zh,count
+train,common_rust,普通锈病,400
+train,gray_leaf_spot,灰斑病,400
+train,healthy,健康叶片,400
+train,northern_leaf_blight,北方叶枯病,400
+val,common_rust,普通锈病,50
+val,gray_leaf_spot,灰斑病,50
+val,healthy,健康叶片,50
+val,northern_leaf_blight,北方叶枯病,50
+test,common_rust,普通锈病,50
+test,gray_leaf_spot,灰斑病,50
+test,healthy,健康叶片,50
+test,northern_leaf_blight,北方叶枯病,50
